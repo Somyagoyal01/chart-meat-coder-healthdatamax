@@ -1,0 +1,5 @@
+pymupdf>=1.24
+pytesseract>=0.3.10   # optional: OCR for scanned pages (needs the tesseract binary)
+Pillow>=10
+pytest>=8
+# optional real-LLM path: openai>=1.40
