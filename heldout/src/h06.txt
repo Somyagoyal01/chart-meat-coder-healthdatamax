@@ -1,0 +1,9 @@
+Patient: HELDOUT-06 (fictional)
+Date of Service: 01/22/2025
+HPI: 70 yo M with CHF, EF 30% on echo 11/2024. Weight up 3 lb, ankle swelling. Also PAD with calf pain walking 1 block.
+Exam: 2+ pitting edema, bibasilar rales. Weak DP pulses.
+Assessment and Plan:
+1. Chronic systolic CHF, mildly decompensated - increase furosemide to 40 bid, daily weights, recheck BMP 1 week.
+2. PAD - claudication stable, continue atorvastatin and aspirin, walking program.
+3. CAD s/p stent 2019 - no angina, continue aspirin, statin.
+4. HTN - BP 128/76, controlled.

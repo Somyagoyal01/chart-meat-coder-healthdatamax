@@ -1,0 +1,10 @@
+Patient: HELDOUT-02 (fictional)
+Visit date: 05/03/2025
+HPI: Pt with long standing COPD presents with more SOB on exertion. Uses albuterol 3-4x/day. Former smoker, quit 2015.
+Family hx: Brother with lung cancer.
+ROS: Denies fever. No chest pain.
+Exam: scattered wheezes, O2 sat 93% RA.
+A/P:
+- COPD exacerbation, mild: prednisone 40 mg x 5 days, continue Spiriva, recheck 1 week.
+- Possible OSA - sleep study ordered.
+- Hyperlipidemia.

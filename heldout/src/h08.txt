@@ -1,0 +1,8 @@
+Patient: HELDOUT-08 (fictional)
+DOS: 09/09/2025
+HPI: 59 yo M with HIV, on Biktarvy, adherent. Also alcohol use disorder, drinking 6-8 beers daily.
+Labs: CD4 520, viral load undetectable. AST/ALT elevated.
+Assessment/Plan:
+1. HIV disease - well controlled, VL undetectable, continue Biktarvy.
+2. Alcohol dependence - discussed risks, referred to addiction medicine, start naltrexone.
+3. Elevated LFTs - likely alcohol related, liver US ordered; cirrhosis not excluded.

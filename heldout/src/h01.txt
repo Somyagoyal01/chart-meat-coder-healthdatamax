@@ -1,0 +1,12 @@
+Patient: HELDOUT-01 (fictional)
+DOS: 02/11/2025
+CC: f/u DM2 and BP
+Subjective: 68 yo M, checks sugars at home, fasting 140s. No hypoglycemia. Some tingling in both feet x 6 months.
+PMH: DM2, HTN, CKD IIIa, s/p appendectomy.
+Meds: metformin 500 bid, losartan 50 daily, gabapentin 300 qhs.
+Exam: BP 152/90. Monofilament decreased sensation bilateral feet.
+Labs: A1c 8.9, eGFR 52.
+Impression:
+1. Type 2 diabetes with diabetic peripheral neuropathy - A1c above goal; increase metformin to 1000 bid, continue gabapentin.
+2. Hypertension - above goal today, add amlodipine 5 mg.
+3. CKD 3 - eGFR stable at 52, avoid NSAIDs.

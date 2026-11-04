@@ -1,0 +1,9 @@
+Patient: HELDOUT-07 (fictional)
+Date of Service: 06/30/2025
+HPI: 45 yo F annual visit. Generally well. Mood good. Smokes 1/2 ppd, wants to quit.
+PMH: Asthma as a child, resolved. Hx of depression in 2018, off meds, no symptoms.
+Exam: normal.
+Assessment and Plan:
+1. Nicotine dependence - counseled 5 min, start nicotine patch 14 mg.
+2. Health maintenance - mammogram ordered.
+3. Rule out hypothyroidism - TSH ordered given fatigue.

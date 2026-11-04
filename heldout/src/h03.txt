@@ -1,0 +1,17 @@
+Patient: HELDOUT-03 (fictional)
+Date of Service: 07/19/2025
+Chief Complaint: memory concerns, daughter present
+HPI: 81 yo F with Alzheimer's disease, daughter reports increased confusion in evenings. Also h/o breast cancer 2009, no recurrence.
+Problem List: Alzheimer's disease, osteoporosis, hypothyroidism, atrial fibrillation.
+Medications: donepezil 10 mg, levothyroxine 50 mcg, apixaban 2.5 mg bid
+Exam: oriented to person only. Irregularly irregular rhythm.
+Assessment and Plan:
+1. Alzheimer's disease - progressing per family; continue donepezil, discussed safety at home, home health referral.
+2. Afib - rate ok, continue apixaban.
+3. Hypothyroidism - stable, TSH last month normal, continue levothyroxine.
+
+Date of Service: 10/02/2025
+HPI: Follow up. Daughter says sundowning a bit better.
+Assessment and Plan:
+1. Alzheimer's disease - improved evenings, continue donepezil.
+2. Osteoporosis - start alendronate 70 mg weekly, DEXA reviewed (T -2.8).

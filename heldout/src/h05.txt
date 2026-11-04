@@ -1,0 +1,10 @@
+Patient: HELDOUT-05 (fictional)
+Encounter date: 08/08/2025
+CC: knee pain
+HPI: 62 yo F with right knee pain worse with stairs. Hx of morbid obesity, BMI today 42.3. No trauma. No history of rheumatoid arthritis.
+Exam: R knee crepitus, mild effusion, no warmth.
+X-ray: joint space narrowing medial R knee.
+Assessment and plan:
+1. Right knee osteoarthritis - start PT, naproxen prn, consider injection if no improvement.
+2. Morbid obesity - BMI 42, counseled on diet, referral to bariatric clinic.
+3. GERD - patient asks about naproxen; continue omeprazole while on NSAID.

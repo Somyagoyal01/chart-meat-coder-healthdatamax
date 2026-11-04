@@ -1,0 +1,10 @@
+Patient: HELDOUT-04 (fictional)
+DOS: 03/14/2025
+Subjective: 55 yo M on hemodialysis MWF via L arm fistula for ESRD. Feels fatigued.
+Labs: Hgb 9.1, ferritin 210.
+Assessment:
+1. ESRD on dialysis - tolerating HD, continue MWF schedule per nephrology.
+2. Anemia of CKD - Hgb 9.1, continue epoetin with dialysis.
+3. Type 2 diabetes - diet controlled, A1c 6.6.
+4. Depression - stable on sertraline, PHQ-2 negative.
+Plan: RTC 3 months.
