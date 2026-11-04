@@ -1,0 +1,13 @@
+{
+ "precision": 1.0,
+ "recall": 1.0,
+ "f1": 1.0,
+ "withhold_accuracy": 1.0,
+ "unsupported_submitted": 0,
+ "review_rate": 0.0,
+ "visits": 85,
+ "errors": [],
+ "charts": 40,
+ "ocr_pages": 8,
+ "seconds_per_chart": 0.26
+}

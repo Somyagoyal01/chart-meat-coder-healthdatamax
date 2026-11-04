@@ -1,0 +1,197 @@
+{
+ "file": "heldout/h03.pdf",
+ "page_methods": [
+  "text"
+ ],
+ "visits": [
+  {
+   "dos": "07/19/2025",
+   "codes": [
+    {
+     "icd10": "G30.9",
+     "description": "Alzheimer's disease unspecified",
+     "mentions": [
+      "Alzheimer's disease"
+     ],
+     "sections": [
+      "ap",
+      "hpi",
+      "problems"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [
+      "81 yo F with Alzheimer's disease, daughter reports increased confusion in evenings.",
+      "Alzheimer's disease - progressing per family;"
+     ],
+     "meat": {
+      "M": [
+       "reports"
+      ],
+      "A": [
+       "progressing"
+      ],
+      "T": [
+       "increase"
+      ]
+     },
+     "confidence": 0.9,
+     "route": "SUBMIT",
+     "reason": "valid code, active, MEAT: AMT"
+    },
+    {
+     "icd10": "I48.91",
+     "description": "Unspecified atrial fibrillation",
+     "mentions": [
+      "Afib",
+      "atrial fibrillation"
+     ],
+     "sections": [
+      "ap",
+      "problems"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [
+      "Afib - rate ok, continue apixaban."
+     ],
+     "meat": {
+      "T": [
+       "continue",
+       "apixaban"
+      ]
+     },
+     "confidence": 0.9,
+     "route": "SUBMIT",
+     "reason": "valid code, active, MEAT: T"
+    },
+    {
+     "icd10": "E03.9",
+     "description": "Hypothyroidism unspecified",
+     "mentions": [
+      "Hypothyroidism",
+      "hypothyroidism"
+     ],
+     "sections": [
+      "ap",
+      "problems"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [
+      "Hypothyroidism - stable, TSH last month normal, continue levothyroxine."
+     ],
+     "meat": {
+      "M": [
+       "stable"
+      ],
+      "E": [
+       "tsh"
+      ],
+      "T": [
+       "continue",
+       "levothyroxine"
+      ]
+     },
+     "confidence": 0.9,
+     "route": "SUBMIT",
+     "reason": "valid code, active, MEAT: EMT"
+    },
+    {
+     "icd10": "Z85.3",
+     "description": "Personal history of malignant neoplasm of breast",
+     "mentions": [
+      "h/o breast cancer"
+     ],
+     "sections": [
+      "hpi"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [
+      "Also h/o breast cancer 2009,"
+     ],
+     "meat": {},
+     "confidence": 0.8,
+     "route": "CODER_REVIEW",
+     "reason": "mentioned in the note but no MEAT cue found"
+    },
+    {
+     "icd10": "M81.0",
+     "description": "Age-related osteoporosis without current pathological fracture",
+     "mentions": [
+      "osteoporosis"
+     ],
+     "sections": [
+      "problems"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [],
+     "meat": {},
+     "confidence": 0.8,
+     "route": "WITHHOLD",
+     "reason": "listed only in problem list / history / meds, no MEAT at this visit"
+    }
+   ]
+  },
+  {
+   "dos": "10/02/2025",
+   "codes": [
+    {
+     "icd10": "G30.9",
+     "description": "Alzheimer's disease unspecified",
+     "mentions": [
+      "Alzheimer's disease"
+     ],
+     "sections": [
+      "ap"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [
+      "Alzheimer's disease - improved evenings, continue donepezil."
+     ],
+     "meat": {
+      "M": [
+       "improved"
+      ],
+      "T": [
+       "continue",
+       "donepezil"
+      ]
+     },
+     "confidence": 0.9,
+     "route": "SUBMIT",
+     "reason": "valid code, active, MEAT: MT"
+    },
+    {
+     "icd10": "M81.0",
+     "description": "Age-related osteoporosis without current pathological fracture",
+     "mentions": [
+      "Osteoporosis"
+     ],
+     "sections": [
+      "ap"
+     ],
+     "status": "active",
+     "valid_code": true,
+     "evidence": [
+      "Osteoporosis - start alendronate 70 mg weekly, DEXA reviewed (T -2.8)."
+     ],
+     "meat": {
+      "E": [
+       "reviewed"
+      ],
+      "T": [
+       "start"
+      ]
+     },
+     "confidence": 0.9,
+     "route": "SUBMIT",
+     "reason": "valid code, active, MEAT: ET"
+    }
+   ]
+  }
+ ]
+}
