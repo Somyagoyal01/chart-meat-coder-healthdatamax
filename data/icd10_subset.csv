@@ -1,0 +1,51 @@
+code,description,synonyms
+E11.9,Type 2 diabetes mellitus without complications,type 2 diabetes|t2dm|dm2|type ii diabetes|diabetes mellitus type 2|niddm
+E11.22,Type 2 diabetes mellitus with diabetic chronic kidney disease,diabetic ckd|diabetic nephropathy|diabetic kidney disease
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy,diabetic neuropathy|diabetic polyneuropathy|diabetic peripheral neuropathy
+E11.65,Type 2 diabetes mellitus with hyperglycemia,uncontrolled diabetes|diabetes with hyperglycemia|poorly controlled diabetes
+E10.9,Type 1 diabetes mellitus without complications,type 1 diabetes|t1dm|iddm
+I10,Essential (primary) hypertension,hypertension|htn|high blood pressure|essential hypertension
+I50.9,Heart failure unspecified,heart failure|chf|congestive heart failure
+I50.22,Chronic systolic (congestive) heart failure,chronic systolic heart failure|hfref|heart failure with reduced ejection fraction
+I48.91,Unspecified atrial fibrillation,atrial fibrillation|afib|a-fib|af
+I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,coronary artery disease|cad|ashd|atherosclerotic heart disease
+I21.9,Acute myocardial infarction unspecified,acute myocardial infarction|acute mi|stemi|nstemi
+I63.9,Cerebral infarction unspecified,stroke|cerebral infarction|cva
+Z86.73,Personal history of TIA and cerebral infarction without residual deficits,history of stroke|h/o stroke|history of cva|prior stroke
+J44.9,Chronic obstructive pulmonary disease unspecified,copd|chronic obstructive pulmonary disease|emphysema
+J45.909,Unspecified asthma uncomplicated,asthma
+N18.3,Chronic kidney disease stage 3 (moderate),ckd stage 3|ckd 3|chronic kidney disease stage 3|ckd iii
+N18.4,Chronic kidney disease stage 4 (severe),ckd stage 4|ckd 4|chronic kidney disease stage 4
+N18.6,End stage renal disease,esrd|end stage renal disease|end-stage renal disease
+E66.01,Morbid (severe) obesity due to excess calories,morbid obesity|severe obesity
+E66.9,Obesity unspecified,obesity|obese
+E78.5,Hyperlipidemia unspecified,hyperlipidemia|dyslipidemia|high cholesterol
+E03.9,Hypothyroidism unspecified,hypothyroidism
+F32.9,Major depressive disorder single episode unspecified,depression|major depressive disorder|mdd
+F33.1,Major depressive disorder recurrent moderate,recurrent depression moderate|recurrent major depression
+F41.1,Generalized anxiety disorder,generalized anxiety disorder|gad|anxiety
+F20.9,Schizophrenia unspecified,schizophrenia
+F31.9,Bipolar disorder unspecified,bipolar disorder|bipolar
+G20,Parkinson's disease,parkinson's disease|parkinsons disease|parkinson disease
+G30.9,Alzheimer's disease unspecified,alzheimer's disease|alzheimers|alzheimer disease
+F03.90,Unspecified dementia without behavioral disturbance,dementia
+G40.909,Epilepsy unspecified not intractable,epilepsy|seizure disorder
+M06.9,Rheumatoid arthritis unspecified,rheumatoid arthritis|ra
+M17.11,Unilateral primary osteoarthritis right knee,osteoarthritis of right knee|right knee osteoarthritis|right knee oa
+M81.0,Age-related osteoporosis without current pathological fracture,osteoporosis
+K21.9,Gastro-esophageal reflux disease without esophagitis,gerd|acid reflux|gastroesophageal reflux disease
+K74.60,Unspecified cirrhosis of liver,cirrhosis|liver cirrhosis
+B20,Human immunodeficiency virus [HIV] disease,hiv disease|hiv infection|hiv
+C34.90,Malignant neoplasm of unspecified part of unspecified bronchus or lung,lung cancer|lung carcinoma|nsclc
+C50.919,Malignant neoplasm of unspecified site of unspecified female breast,breast cancer|breast carcinoma
+Z85.3,Personal history of malignant neoplasm of breast,history of breast cancer|h/o breast cancer
+D63.1,Anemia in chronic kidney disease,anemia of ckd|anemia in ckd|anemia of chronic kidney disease
+D64.9,Anemia unspecified,anemia
+I73.9,Peripheral vascular disease unspecified,peripheral vascular disease|pvd|peripheral artery disease|pad
+E43,Unspecified severe protein-calorie malnutrition,severe malnutrition|severe protein-calorie malnutrition
+Z89.511,Acquired absence of right leg below knee,right below knee amputation|right bka|s/p right bka
+Z99.2,Dependence on renal dialysis,dialysis dependence|on hemodialysis|hemodialysis dependent
+F17.210,Nicotine dependence cigarettes uncomplicated,tobacco use|smoker|nicotine dependence|current smoker
+F10.20,Alcohol dependence uncomplicated,alcohol dependence|alcohol use disorder
+E87.1,Hypo-osmolality and hyponatremia,hyponatremia
+R07.9,Chest pain unspecified,chest pain
